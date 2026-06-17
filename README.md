@@ -9,11 +9,11 @@ A simple command-line number guessing game built in C++.
 - Input validation
 - Win/loss system
 
-## How to Run
-1. Compile the program:
+## How to run?
+### 1. Compile the program:
    g++ main.cpp -o game
 
-2. Run it:
+### 2. Run it:
    ./game
 
 ## Project URL
